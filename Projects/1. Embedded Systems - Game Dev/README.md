@@ -2,6 +2,8 @@
 
 *This project was assigned by university as a practical way to learn about embedded systems and baremetal programming.*
 
+![Image of Game Demo](https://photos.app.goo.gl/NL1tLJzCXcB535jy6)
+
 Using only standard C libraries (not MBED, CUBE or any OS) create any game that utilises a range of the on-board peripherals. 
 (LCD, ADC, DAC, USART, TIMERS, LEDS, BUTTONS, LDR, BUZZER etc). The game must be created individually using “bare metal” 
 programming using Keil. The C code for each peripheral should be contained in a separate, appropriately named, .c file with 
