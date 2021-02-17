@@ -1,6 +1,7 @@
 <h1> Rachel Ireland-Jones's Portfolio </h1>
 
-**Portfolio of my work as evidence of skills. Includes overviews of each project, code, photos and videos.**
+**Some of the projects I have complteted to show competency in various elements of engineering. 
+Includes overviews of each project, code, photos and videos.**
 
 Skills in evidence:
 * Embedded Code
