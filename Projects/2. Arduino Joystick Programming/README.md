@@ -14,6 +14,8 @@
 * You should aim to create self-documenting code using well-chosen variable names and function names to make the code read as close to
 English as possible. 
 
-`var example = true`
+```c
+var example = true
+```
 
 [Video of Code Demonstration](https://www.youtube.com/watch?reload=9&v=zkEH4W_gqOI&feature=youtu.be)
