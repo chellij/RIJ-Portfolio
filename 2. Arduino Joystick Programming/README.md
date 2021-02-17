@@ -22,4 +22,4 @@
 
 [Video of Code Demonstration](https://www.youtube.com/watch?reload=9&v=zkEH4W_gqOI&feature=youtu.be)
 
-<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/2.%20Arduino%20Joystick%20Programming/Schematic.png" width="600">
+<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/2.%20Arduino%20Joystick%20Programming/Schematic.png" width="10000">
