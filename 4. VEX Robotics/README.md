@@ -15,5 +15,5 @@ Most Spirited Team award.
 
 [Vex Team Website](https://vex622.wordpress.com/)
 
-<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(2).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(7).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(6).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(3).jpg" width="400">
+<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(4).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(7).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(6).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(3).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(5).jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(1).jpg" width="400">
 
