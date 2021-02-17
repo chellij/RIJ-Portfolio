@@ -16,4 +16,4 @@ _**This project was assigned by university as a practical way to learn about emb
 * You should aim to create self-documenting code using well-chosen variable names and function names to make the code read as close to
 English as possible. 
 
-[Game Play Demonstration](https://www.youtube.com/watch?v=1TK3talGWjU&feature=youtu.be&ab_channel=RachelIreland-Jones)
+[Video of Game Play Demonstration](https://www.youtube.com/watch?v=1TK3talGWjU&feature=youtu.be&ab_channel=RachelIreland-Jones)
