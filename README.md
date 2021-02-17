@@ -4,8 +4,8 @@
 Includes overviews of each project, code, photos and videos.**
 
 Skills in evidence:
-* Embedded Code
-* Control System
-* Circuit diagrams
-* Schematics
-* Project notes
+- [x] Embedded Code
+- [x] Control System
+- [x] Circuit diagrams
+- [x] Schematics
+- [x] Project notes
