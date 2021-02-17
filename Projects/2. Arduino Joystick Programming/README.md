@@ -20,8 +20,4 @@
 
 **This is still all without libraries.**
 
-```arduino
-var example = true
-```
-
 [Video of Code Demonstration](https://www.youtube.com/watch?reload=9&v=zkEH4W_gqOI&feature=youtu.be)
