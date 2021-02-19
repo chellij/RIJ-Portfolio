@@ -16,11 +16,11 @@ Some of these projects were completed as part of my academic learning and some a
   - [*Arduino Joystick*](https://github.com/chellij/RIJ-Portfolio/blob/master/2.%20Arduino%20Joystick%20Programming/Schematic.png) 
 
 #### Solidworks
-  - [* .easm file*](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.EASM) 
-  - [.step file](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.STEP)
+  - *[.easm file](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.EASM)*
+  - *[.step file](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.STEP)*
 
 #### Autodesk Fusion
-  - [*Example*]() 
+  - *[360 Public Link](https://students5859.autodesk360.com/g/shares/SH56a43QTfd62c1cd968c333b426d042c16f) *
 
 # Contact Me
 
