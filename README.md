@@ -20,4 +20,5 @@ Some of these projects were completed as part of my academic learning and some a
 
 # Contact Me
 
-[By Email](mailto:rachel.ireland-jones@students.plymouth.ac.uk)
+[via email](mailto:rachel.ireland-jones@students.plymouth.ac.uk)
+[via LinkedIn](https://www.linkedin.com/in/rachel-ireland-jones/)
