@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/74239304?s=460&u=567d099dca84ff35d56d2610422d12956dcb06e4&v=4" width="200">
 
-Hi I am Rachel! I am a second-year student at the univeristy of Plymouth studying a 4 year integrated masters and currently looking for a placement year for the next academic year. I was first introduced to robotics at school and after a research project in physics about prosthetics I realised I wanted to focus on humanoid robotics or medical robotics. 
+Hi I am Rachel! I am a second-year student at the univeristy of Plymouth studying a 4 year integrated masters and currently looking for a placement year for the next academic year. I was first introduced to robotics during my A-Levels and loved the combination of design and code. It was however only at university that I realised how many different aspects of robotics there are and how many sectors robots can be used in. My aim is to work in humanoid robotics or medical robotics however I am open to all opportunities to learn more about the various uses.
 
 # My Portfolio
 
@@ -13,10 +13,14 @@ Some of these projects were completed as part of my academic learning and some a
   - [*Game Development*](https://github.com/chellij/RIJ-Portfolio/blob/master/1.%20Embedded%20Systems%20-%20Game%20Dev/source/main.c)
 
 #### Schematics
-  - [*Example*](https://github.com/chellij/RIJ-Portfolio/blob/master/2.%20Arduino%20Joystick%20Programming/Schematic.png) 
+  - [*Arduino Joystick*](https://github.com/chellij/RIJ-Portfolio/blob/master/2.%20Arduino%20Joystick%20Programming/Schematic.png) 
 
-#### Project Notes
-  - [*Example*](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Buggy%20Project%20Report.pdf) 
+#### Solidworks
+  - [* .easm file*](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.EASM) 
+  - [.step file](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.STEP)
+
+#### Autodesk Fusion
+  - [*Example*]() 
 
 # Contact Me
 
