@@ -20,7 +20,7 @@ Some of these projects were completed as part of my academic learning and some a
   - *[.step file](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.STEP)*
 
 #### Autodesk Fusion
-  - *[360 Public Link](https://students5859.autodesk360.com/g/shares/SH56a43QTfd62c1cd968c333b426d042c16f) *
+  - *[360 Public Link](https://students5859.autodesk360.com/g/shares/SH56a43QTfd62c1cd968c333b426d042c16f)*
 
 # Contact Me
 
