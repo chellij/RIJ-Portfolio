@@ -2,7 +2,7 @@
 
 <h3> March 2016 </h3>
 
-<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(4).jpg" width="400">
+<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(4).jpg" width="600">
 
 Although I have no code or examples to show as it was a few years ago, VEX Robotics was
 the starting point for me being interested in robotics and so I thought it important to
