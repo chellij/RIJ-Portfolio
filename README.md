@@ -13,14 +13,10 @@ Some of these projects were completed as part of my academic learning and some a
   - [*Game Development*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
 
 #### Schematics
-  - [*Arduino Joystick*](https://github.com/chellij/RIJ-Portfolio/blob/master/2.%20Arduino%20Joystick%20Programming/Schematic.png) 
+  - [*Arduino Joystick*](https://github.com/chellij/RIJ-Portfolio/tree/master/2.%20Arduino%20Joystick%20Programming) 
 
-#### Solidworks
-  - *[.easm file](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.EASM)*
-  - *[.step file](https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Chassis%20Assembly2.STEP)*
-
-#### Autodesk Fusion
-  - *[360 Public Link](https://students5859.autodesk360.com/g/shares/SH56a43QTfd62c1cd968c333b426d042c16f)*
+#### 3D Design
+  - *[Rover Project](https://github.com/chellij/RIJ-Portfolio/tree/master/3.%20Buggy%20Project)*
 
 # Contact Me
 
