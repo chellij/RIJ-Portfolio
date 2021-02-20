@@ -1,8 +1,8 @@
-<h1> Buggy Project - Overview </h1>
+<h1> Rover Project - Overview </h1>
 
 <h3> 10.06.2020 </h3>
 
-<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Buggy%20Project/Exploded%20Diagram.png" width="600">
+<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/3.%20Rover%20Project/Solidworks%20Exploded%20Diagram.png" width="600">
 
 *This was a group project that was set by university using an STM32F429ZI Nucleo
 Development board as the basis for a buggy that should push beads over a line. Due to
