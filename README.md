@@ -10,7 +10,7 @@ Although I am at the beginning of my career in Robotics I have included a few pr
 Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have includes overviews of each project as readme files, code, photos and videos where applicable.
 
 ####  Embedded System Code (C Language)
-  - [*Game Development*](https://github.com/chellij/RIJ-Portfolio/blob/master/1.%20Embedded%20Systems%20-%20Game%20Dev/source/main.c)
+  - [*Game Development*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
 
 #### Schematics
   - [*Arduino Joystick*](https://github.com/chellij/RIJ-Portfolio/blob/master/2.%20Arduino%20Joystick%20Programming/Schematic.png) 
