@@ -7,7 +7,7 @@ Hi I am Rachel! I am a second-year student at the univeristy of Plymouth studyin
 # My Portfolio
 
 Although I am at the beginning of my career in Robotics I have included a few projects in this repository to show some of my skills in electrical and robotic engineering. 
-Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have includes overviews of each project as readme files, code, photos and videos where applicable.
+Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have included overviews of each project as readme files, code, photos and videos where applicable.
 
 ####  Embedded System Code (C Language)
   - [*Game Development*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
