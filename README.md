@@ -2,12 +2,12 @@
 
 <img src="https://avatars.githubusercontent.com/u/74239304?s=460&u=567d099dca84ff35d56d2610422d12956dcb06e4&v=4" width="200">
 
-Hi I am Rachel! I am a second-year student at the univeristy of Plymouth studying a 4 year integrated masters and currently looking for a placement year for the next academic year. I was first introduced to robotics during my A-Levels and loved the combination of design and code. It was however only at university that I realised how many different aspects of robotics there are and how many sectors robots can be used in. My aim is to work in humanoid robotics or medical robotics however I am open to all opportunities to learn more about the various uses.
+Hi I am Rachel! I am a second-year student at the univeristy of Plymouth studying a 4 year integrated masters and currently looking for a placement year for the next academic year. I was first introduced to robotics during my A-Levels and loved the combination of design and code. It was, however, only at university that I realised how many different aspects of robotics there are and how many sectors of life robots can be used in. My aim is to work in humanoid robotics or medical robotics however I am open to all opportunities to learn more about the various uses.
 
 # My Portfolio
 
 Although I am at the beginning of my career in Robotics I have included a few projects in this repository to show some of my skills in electrical and robotic engineering. 
-Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have includes overviews of each project as readme files, code, photos and videos where applicable.
+Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have included overviews of each project as readme files, code, photos and videos where applicable.
 
 ####  Embedded System Code (C Language)
   - [*Game Development*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
