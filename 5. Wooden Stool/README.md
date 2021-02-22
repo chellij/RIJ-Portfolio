@@ -1,0 +1,1 @@
+<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/5.%20Wooden%20Stool/Stool%201.jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/VEX%20Photo%20(7).jpg" width="400">
