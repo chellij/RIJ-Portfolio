@@ -1,1 +1,0 @@
-<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/5.%20Wooden%20Stool/Stool%201.jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/5.%20Wooden%20Stool/Stool%203.jpg" width="400"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/5.%20Wooden%20Stool/Stool%202%20-%20Laser%20Cut.jpg" width="400">
