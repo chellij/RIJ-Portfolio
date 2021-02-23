@@ -17,7 +17,7 @@ The competition basis in 2016 was to design and build a Robot using VEX parts an
 
 The second year we competed, the aim was to put as many stars or cubes into the opponents side of the field. The further away from the dividing fence, the more points scored. We again managed to make Nationals at the NEC and this time came 10th in the country.
 
-<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(1).JPG" width="300"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(9).jpg" width="350"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(4).JPG" width="300">
+<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(5).JPG" width="300"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(9).jpg" width="350"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(4).JPG" width="300">
 
 
 
