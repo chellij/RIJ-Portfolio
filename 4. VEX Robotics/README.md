@@ -17,7 +17,7 @@ The competition basis in 2016 was to design and build a Robot using VEX parts an
 
 The second year we competed, 
 
-<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(1).jpg" width="300"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(9).jpg" width="350"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(4).jpg" width="300">
+<img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(1).JPG" width="300"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(9).jpg" width="300"><img src="https://github.com/chellij/RIJ-Portfolio/blob/master/4.%20VEX%20Robotics/Pictures/VEX%202017%20(4).JPG" width="300">
 
 [Vex Team Website](https://vex622.wordpress.com/)
 
